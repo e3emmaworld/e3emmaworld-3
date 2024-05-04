@@ -1,0 +1,230 @@
+.navbar {
+    width: 1210px;
+    padding: 40px;
+    background-image: linear-gradient(rgb(112, 218, 112),rgb(228, 46, 46),rgb(52, 105, 52));
+    display: inline-block;
+    border-left: 10px solid red;
+    border-right: solid greenyellow;
+    text-transform: capitalize;
+    display: flex;
+    border-radius: 20px;
+    z-index: auto;
+
+}
+.navbar img {
+    width: 150px;
+    height: 100px;
+}
+.navbar div {
+    float: inline-end;
+    margin-right: 100px;
+    margin: 60px;
+}
+a {
+    font-size: 25px;
+    text-decoration: none;
+    color: green;
+}
+:hover a {
+    color: greenyellow;
+    padding: 4px 10px;
+}
+.parent {
+    background-image: linear-gradient(greenyellow,pink,greenyellow);
+    width: 1215px;
+    height: 954px;
+    padding: 40px;
+    z-index: auto;
+}
+.mission {
+    width: 1200px;
+    height: 300px;
+}
+.mission img {
+    width: 500px;
+    height: 300px;
+    border-radius: 2500px;
+    float: left;
+}
+.mass {
+    float: inline-end;
+    width: 300px;
+    justify-content: flex-end;
+    margin-bottom: 500px;
+    float: left;
+    margin: 20px;
+}
+.containers {
+    width: 1220px;
+    height: 700px;
+    padding: 30px;
+    background-image: linear-gradient(rgb(112, 81, 112), rgb(235, 152, 166));
+   
+}
+.div1 {
+    width: 200px;
+    width: 180px;
+    float: left;
+    padding: 50px;
+    /* background-color: beige; */
+    margin: 10px;
+    color: goldenrod;
+    font-style: italic;
+    text-transform: capitalize;
+    font-weight: bolder;
+}
+.div2 {
+    width: 200px;
+    width: 180px;
+    float: left;
+    padding: 50px;
+    /* background-color: beige; */
+    margin: 10px;
+    color: goldenrod;
+    font-style: italic;
+    text-transform: capitalize;
+    font-weight: bolder; 
+}
+.div3 {
+    width: 200px;
+    width: 180px;
+    float: left;
+    padding: 50px;
+    /* background-color: beige; */
+    margin: 10px;
+    color: goldenrod;
+    font-style: italic;
+    text-transform: capitalize;
+    font-weight: bolder;
+}
+.div4 {
+    width: 200px;
+    width: 180px;
+    float: left;
+    padding: 50px;
+    /* background-color: beige; */
+    margin: 10px;
+    color: goldenrod;
+    font-style: italic;
+    text-transform: capitalize;
+    font-weight: bolder;
+}
+.div1 img {
+    width: 200px;
+    height: 150px;
+    display: flex;
+    border-radius: 60px;
+}
+.div2 img {
+    width: 200px;
+    height: 150px;
+    display: flex;
+    border-radius: 60px;
+}
+.div3 img {
+    width: 200px;
+    height: 150px;
+    display: flex;
+    border-radius: 60px;
+}
+.div4 img {
+    width: 200px;
+    height: 150px;
+    display: flex;
+    border-radius: 60px;
+}
+marquee {
+    width: 1200px;
+    border: 20px solid goldenrod;
+    /* display: inline-block; */
+    border-radius: 80px;
+    border-left: 40px solid rgb(66, 46, 46);
+    border-right: 40px solid red;
+    color: greenyellow;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 30px;
+    text-transform: capitalize;
+    border-style: groove;
+    /* display: flex; */
+}
+.image1 {
+    float: inline-start;
+    margin: 10px;
+}
+.image2 {
+    float: left;
+    margin: 10px;
+}
+.image3 {
+    float: left;
+    margin: 10px;
+}
+.image4 {
+    float: right;
+    margin: 10px;
+}
+.image5 {
+    float: right;
+    margin: 10px;
+}
+.image6 {
+    float: inline-end;
+    margin: 10px;
+}
+marquee img {
+    width: 200px;
+    height: 100px;
+}
+.mass h1 {
+    font-family: serif;
+    color: red;
+}
+h2 {
+    color: white;
+    font-style: italic;
+}
+.clock {
+    text-align: center;
+    margin: 100px;
+    color: red;
+    font-size: 50px;
+    font-style: italic;
+}
+button {
+    border-left: 20px solid greenyellow;
+    border-right: 20px solid red;
+    display: flex;
+    border-radius: 20px;
+    font-size: larger;
+    background-image: linear-gradient(red,greenyellow);
+    border-top: 10px solid greenyellow;
+    border-bottom: 10px solid rgb(68, 18, 18);
+}
+footer {
+    width: 1250px;
+    height: 300px;
+    background-color: grey;
+    z-index: auto;
+}
+.link {
+    float: inline-start;
+    font-style: italic;
+    margin: 90px;
+}
+.us {
+    float: left;
+    font-style: italic;
+    margin: 90px;
+}
+.contact {
+    float: left;
+    font-style: italic;
+    margin: 90px;
+    font-weight: bolder;
+    color: white;
+}
+.loc {
+    float: left;
+    margin: 90px;
+}
