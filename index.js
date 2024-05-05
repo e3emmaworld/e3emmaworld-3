@@ -1,4 +1,4 @@
-window.alert("Welcome to E3'S Emmah's World Tech");
+window.alert("Welcome to E3'S Emmah's World we love to partner with you");
 
 
 function startTime () {
