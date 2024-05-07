@@ -3,8 +3,8 @@
     padding: 40px;
     background-image: linear-gradient(rgb(112, 218, 112),rgb(228, 46, 46),rgb(52, 105, 52));
     display: inline-block;
-    border-left: 10px solid red;
-    border-right: solid greenyellow;
+    border-left: 20px solid red;
+    border-right:20px solid greenyellow;
     text-transform: capitalize;
     display: flex;
     border-radius: 20px;
@@ -68,7 +68,7 @@ a {
     padding: 50px;
     /* background-color: beige; */
     margin: 10px;
-    color: goldenrod;
+    color: red;
     font-style: italic;
     text-transform: capitalize;
     font-weight: bolder;
@@ -80,7 +80,7 @@ a {
     padding: 50px;
     /* background-color: beige; */
     margin: 10px;
-    color: goldenrod;
+    color: red;
     font-style: italic;
     text-transform: capitalize;
     font-weight: bolder; 
@@ -92,7 +92,7 @@ a {
     padding: 50px;
     /* background-color: beige; */
     margin: 10px;
-    color: goldenrod;
+    color: red;
     font-style: italic;
     text-transform: capitalize;
     font-weight: bolder;
@@ -140,7 +140,7 @@ marquee {
     border-radius: 80px;
     border-left: 40px solid rgb(66, 46, 46);
     border-right: 40px solid red;
-    color: greenyellow;
+    color: red;
     font-style: italic;
     font-weight: bolder;
     font-size: 30px;
