@@ -135,8 +135,7 @@
     width: 1220px;
     float: left;
 }
-.call a h1{
-    text-decoration: none;
+.call  h1{
     color: green;
     font-style: italic;
 }
