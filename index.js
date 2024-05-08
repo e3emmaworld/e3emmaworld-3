@@ -16,7 +16,7 @@ function checkTime(i) {
     return i;
 }
 
-    function somescript() {
-            window.location.href = document.getElementById('ololo').href;
+    function call me() {
+            window.location.href = document.getElementById("call").href;
     }
 
