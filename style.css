@@ -130,10 +130,10 @@
     border-radius: 60px;
 }
 .call {
-    text align: center;
     font-size: 30px;
     background-color: white;
     width: 1220px;
+    color: green;
 }
 .call h2{
     font-style: italic;
