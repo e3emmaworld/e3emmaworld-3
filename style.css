@@ -25,10 +25,6 @@ a {
     text-decoration: none;
     color: green;
 }
-:hover a {
-    color: greenyellow;
-    padding: 4px 10px;
-}
 .parent {
     background-image: linear-gradient(greenyellow,pink,greenyellow);
     width: 1215px;
@@ -135,9 +131,10 @@ a {
 }
 .call {
     text align: center;
-    font-sieze: 30px;
+    font-size: 30px;
     color: red;
-    
+    background-color: white;
+    width: 1220px;   
 }
 marquee {
     width: 1200px;
