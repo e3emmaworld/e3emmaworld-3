@@ -133,6 +133,8 @@ a {
     text align: center;
     font-size: 30px;
     color: red;
+    backgroung-color: white;
+    width: 1200;
 }
 marquee {
     width: 1200px;
