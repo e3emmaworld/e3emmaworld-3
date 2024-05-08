@@ -28,7 +28,7 @@ a {
 .parent {
     background-image: linear-gradient(greenyellow,pink,greenyellow);
     width: 1215px;
-    height: 1050px;
+    height: 1200px;
     padding: 40px;
     z-index: auto;
 }
