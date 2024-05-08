@@ -133,6 +133,12 @@ a {
     display: flex;
     border-radius: 60px;
 }
+.call {
+    text align: center;
+    font-sieze: 30px;
+    color: red;
+    
+}
 marquee {
     width: 1200px;
     border: 20px solid goldenrod;
