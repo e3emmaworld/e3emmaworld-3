@@ -133,7 +133,11 @@
     font-size: 30px;
     background-color: white;
     width: 1220px;
+}
+.call a {
+    text-decoration: none;
     color: green;
+    font-style: italic;
 }
 .call h2{
     font-style: italic;
