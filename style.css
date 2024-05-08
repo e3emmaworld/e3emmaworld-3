@@ -132,9 +132,8 @@ a {
 .call {
     text align: center;
     font-size: 30px;
-    color: red;
     background-color: white;
-    width: 1200;
+    width: 1220px;
 }
 marquee {
     width: 1200px;
