@@ -17,6 +17,6 @@ function checkTime(i) {
 }
 
     function call me() {
-            window.location.href = document.getElementById("call").href;
+            window.location.href = document.getElementById("call").href="08061383526";
     }
 
